@@ -80,7 +80,7 @@ Each storage source is classified by the following categories:
 | Database-Artifact Attestations | False | [Sigstore Bundle](https://docs.sigstore.dev/about/bundle/) | Public, Private |
 | Database-Archivista | False | [dsse](https://github.com/secure-systems-lab/dsse) | Private |
 | Database-OSS Rebuild | False | [dsse](https://github.com/secure-systems-lab/dsse) | Public |
-| Database-Sigstore Rekor | False | [dsse](https://github.com/secure-systems-lab/dsse), [intoto](https://github.com/sigstore/rekor/blob/main/pkg/types/intoto/README.mdn), [HashRekord](https://github.com/sigstore/rekor/blob/main/pkg/types/hashedrekord/v0.0.1/hashedrekord_v0_0_1_schema.json) | Public, Private |
+| Database-Sigstore Rekor | False | [dsse](https://github.com/secure-systems-lab/dsse), [intoto](https://github.com/sigstore/rekor/blob/main/pkg/types/intoto/README.mdn), [hashedrekord](https://github.com/sigstore/rekor/blob/main/pkg/types/hashedrekord/v0.0.1/hashedrekord_v0_0_1_schema.json) | Public, Private |
 | Aggregator-BigQuery | False | Rows | Public |
 | Aggregator-deps.dev | True | References | Public |
 | Aggregator-ecosyste.ms | Planned | Planned | Public |
