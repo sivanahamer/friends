@@ -1,14 +1,14 @@
 ---
 type: Package Registry
-besides: TBD
-format: [TBD]
+besides: Planned
+format: [Planned]
 visibility: [Public]
 ---
 
 # crates.io
 
-Crates has plans to store attestations.
+[crates.io](https://crates.io/) has plans to store attestations.
 
 **References:**
 
-- [https://internals.rust-lang.org/t/pre-rfc-using-sigstore-for-signing-and-verifying-crates/18115](https://internals.rust-lang.org/t/pre-rfc-using-sigstore-for-signing-and-verifying-crates/18115)
+- <https://internals.rust-lang.org/t/pre-rfc-using-sigstore-for-signing-and-verifying-crates/18115>

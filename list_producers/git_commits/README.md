@@ -11,4 +11,4 @@ Git Commits can have [Git Notes](https://git-scm.com/docs/git-notes) associated 
 
 **References:** 
 
-- [https://github.com/in-toto/ITE/pull/61](https://github.com/in-toto/ITE/pull/61)
+- <https://github.com/in-toto/ITE/pull/61>

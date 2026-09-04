@@ -1,14 +1,14 @@
 ---
 type: Aggregator
-besides: TBD
-format: [TBD]
+besides: Planned
+format: [Planned]
 visibility: [Public]
 ---
 
 # ecosyste.ms
 
-ecosyste.ms plans to add support to store attestations from other srouces.
+[ecosyste.ms](https://ecosyste.ms/) plans to add support to store attestations from other sources.
 
 **References:** 
 
-- [https://ecosyste.ms/](https://ecosyste.ms/)
+- <https://ecosyste.ms/>

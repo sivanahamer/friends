@@ -11,5 +11,5 @@ Different tools can generate in-toto attestations as a file in a release. For ex
 
 **References:** 
 
-- [https://slsa.dev/spec/v1.2/distributing-provenance](https://slsa.dev/spec/v1.2/distributing-provenance)  
-- [https://github.com/ossf/scorecard/blob/main/docs/checks.md\#signed-releases](https://github.com/ossf/scorecard/blob/main/docs/checks.md#signed-releases)
+- <https://slsa.dev/spec/v1.2/distributing-provenance>
+- <https://github.com/ossf/scorecard/blob/main/docs/checks.md#signed-releases>

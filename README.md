@@ -66,24 +66,24 @@ Each storage source is classified by the following categories:
 | Repository-Git Commits | True | Any (Suggested [Attestation Bundle](https://github.com/in-toto/attestation/blob/main/spec/v1/bundle.md)) | Public, Private |
 | Repository-Git Repository | False | Any | Public, Private |
 | Repository-Immutable Releases | True | [Sigstore Bundle](https://docs.sigstore.dev/about/bundle/) | Public, Private |
-| Repository-Linked Artifact | True | TBD | Public, Private |
+| Repository-Linked Artifact | True | Planned | Public, Private |
 | Repository-Release Files | True | Any | Public, Private |
 | Images-Attestation Manifest | Either | [Attestation Blob](https://github.com/moby/buildkit/blob/master/docs/attestations/attestation-storage.md#attestation-blob) | Public, Private |
-| Images-Manifest Referrers | Either | TBD | Public, Private |
-| Package Registry-Homebrew | Tbd | TBD | Public |
-| Package Registry-Maven | True | NA | Public |
-| Package Registry-Npm | True | [Sigstore Bundle](https://docs.sigstore.dev/about/bundle/) | Public |
-| Package Registry-crates.io | TBD | TBD | Public |
-| Package Registry-Nuget | TBD | TBD | Public |
-| Package Registry-PyPI | True | [Sigstore Bundle](https://docs.sigstore.dev/about/bundle/) | Public |
-| Package Registry-Ruby | Unsure | Unsure | Public |
+| Images-Manifest Referrers | Either | Planned | Public, Private |
+| Package-Registry-Homebrew | Planned | Planned | Public |
+| Package-Registry-Maven | True | NA | Public |
+| Package-Registry-Npm | True | [Sigstore Bundle](https://docs.sigstore.dev/about/bundle/) | Public |
+| Package-Registry-crates.io | Planned | Planned | Public |
+| Package-Registry-Nuget | Planned | Planned | Public |
+| Package-Registry-PyPI | True | [Sigstore Bundle](https://docs.sigstore.dev/about/bundle/) | Public |
+| Package-Registry-Ruby | Unsure | Unsure | Public |
 | Database-Artifact Attestations | False | [Sigstore Bundle](https://docs.sigstore.dev/about/bundle/) | Public, Private |
 | Database-Archivista | False | [dsse](https://github.com/secure-systems-lab/dsse) | Private |
 | Database-OSS Rebuild | False | [dsse](https://github.com/secure-systems-lab/dsse) | Public |
 | Database-Sigstore Rekor | False | [dsse](https://github.com/secure-systems-lab/dsse), [intoto](https://github.com/sigstore/rekor/blob/main/pkg/types/intoto/README.mdn), [HashRekord](https://github.com/sigstore/rekor/blob/main/pkg/types/hashedrekord/v0.0.1/hashedrekord_v0_0_1_schema.json) | Public, Private |
 | Aggregator-Bigquery | False | Rows | Public |
 | Aggregator-Deps Dev | True | References | Public |
-| Aggregator-Ecosyste.ms | TBD | TBD | Public |
+| Aggregator-Ecosyste.ms | Planned | Planned | Public |
 
 ## Credit
 

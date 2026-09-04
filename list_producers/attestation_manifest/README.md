@@ -11,7 +11,7 @@ If [Buildkit](https://github.com/moby/buildkit) is used for images, attestations
 
 **References:** 
 
-- [https://github.com/moby/buildkit/blob/master/docs/attestations/attestation-storage.md](https://github.com/moby/buildkit/blob/master/docs/attestations/attestation-storage.md)
-- [https://docs.docker.com/dhi/how-to/verify/](https://docs.docker.com/dhi/how-to/verify/)  
-- [https://github.com/docker/scout-cli](https://github.com/docker/scout-cli)  
-- [https://docs.docker.com/build/metadata/attestations/attestation-storage](https://docs.docker.com/build/metadata/attestations/attestation-storage)
+- <https://github.com/moby/buildkit/blob/master/docs/attestations/attestation-storage.md>
+- <https://docs.docker.com/dhi/how-to/verify/>
+- <https://github.com/docker/scout-cli>
+- <https://docs.docker.com/build/metadata/attestations/attestation-storage>

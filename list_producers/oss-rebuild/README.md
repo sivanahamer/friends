@@ -7,9 +7,9 @@ visibility: [Public]
 
 # OSS Rebuild
 
-OSS Rebuilds stores their attestations for a subset of packages in a Google cloud bucket that can be publicly accessed.
+[OSS Rebuild](https://github.com/google/oss-rebuild) stores their attestations for a subset of packages in a Google cloud bucket that can be publicly accessed.
 
 **References:** 
 
-- [https://docs.oss-rebuild.dev/builds/](https://docs.oss-rebuild.dev/builds/)
-- [https://docs.oss-rebuild.dev/storage/](https://docs.oss-rebuild.dev/storage/)
+- <https://docs.oss-rebuild.dev/builds/>
+- <https://docs.oss-rebuild.dev/storage/>

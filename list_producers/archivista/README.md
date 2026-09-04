@@ -11,4 +11,4 @@ Archivista can store data of attestations that were added. Note that in-toto Arc
 
 **References:** 
 
-- - [https://github.com/in-toto/archivista](https://github.com/in-toto/archivista)
+- <https://github.com/in-toto/archivista>
