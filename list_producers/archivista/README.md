@@ -1,13 +1,13 @@
 ---
-type: Aggregator
+type: Database
 besides: No
 format: [dsse]
-visibility: [Public, Private]
+visibility: [Private]
 ---
 
 # in-toto archivista
 
-Archivista can store data of attestations that were added.
+Archivista can store data of attestations that were added. Note that in-toto Archivista attestations are no longer being stored publicly.
 
 **References:** 
 

@@ -1,5 +1,5 @@
 ---
-type: Repository
+type: Database
 besides: No
 format: [sigstore bundle]
 visibility: [Public, Private]

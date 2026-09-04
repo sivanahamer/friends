@@ -62,7 +62,6 @@ Each storage source is classified by the following categories:
 
 | Location | Alongside artifact? | Storage Format | Visibility |
 |----------|---------------------|--------|-----------|
-| Repository-Artifact Attestations | False | [Sigstore Bundle](https://docs.sigstore.dev/about/bundle/) | Public, Private |
 | Repository-Git Commits | True | Any (Suggested [Attestation Bundle](https://github.com/in-toto/attestation/blob/main/spec/v1/bundle.md)) | Public, Private |
 | Repository-Git Repository | False | Any | Public, Private |
 | Repository-Immutable Releases | True | [Sigstore Bundle](https://docs.sigstore.dev/about/bundle/) | Public, Private |
@@ -73,14 +72,17 @@ Each storage source is classified by the following categories:
 | Package Registry-Homebrew | Tbd | TBD | Public |
 | Package Registry-Maven | True | NA | Public |
 | Package Registry-Npm | True | [Sigstore Bundle](https://docs.sigstore.dev/about/bundle/) | Public |
-| Package Registry-Nuget | Tbd | TBD | Public |
-| Package Registry-Pypi | True | [Sigstore Bundle](https://docs.sigstore.dev/about/bundle/) | Public |
+| Package Registry-crates.io | TBD | TBD | Public |
+| Package Registry-Nuget | TBD | TBD | Public |
+| Package Registry-PyPI | True | [Sigstore Bundle](https://docs.sigstore.dev/about/bundle/) | Public |
 | Package Registry-Ruby | Unsure | Unsure | Public |
+| Database-Artifact Attestations | False | [Sigstore Bundle](https://docs.sigstore.dev/about/bundle/) | Public, Private |
+| Database-Archivista | False | [dsse](https://github.com/secure-systems-lab/dsse) | Private |
+| Database-OSS Rebuild | False | [dsse](https://github.com/secure-systems-lab/dsse) | Public |
 | Database-Sigstore Rekor | False | [dsse](https://github.com/secure-systems-lab/dsse), [intoto](https://github.com/sigstore/rekor/blob/main/pkg/types/intoto/README.mdn), [HashRekord](https://github.com/sigstore/rekor/blob/main/pkg/types/hashedrekord/v0.0.1/hashedrekord_v0_0_1_schema.json) | Public, Private |
-| Aggregator-Archivista | False | [dsse](https://github.com/secure-systems-lab/dsse) | Public, Private |
 | Aggregator-Bigquery | False | Rows | Public |
 | Aggregator-Deps Dev | True | References | Public |
-| Aggregator-Ecosyste Ms | Tbd | TBD | Public |
+| Aggregator-Ecosyste.ms | TBD | TBD | Public |
 
 ## Credit
 

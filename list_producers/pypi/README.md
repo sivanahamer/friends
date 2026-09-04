@@ -5,9 +5,9 @@ format: [sigstore bundle]
 visibility: [Public]
 ---
 
-# PyPi
+# PyPI
 
-PyPi stores attestations that can be access through their API as `https://pypi.org/integrity/{PACKAGE}/{VERSION}/{ARTIFACT}/provenance`.
+PyPI stores attestations that can be access through their API as `https://pypi.org/integrity/{PACKAGE}/{VERSION}/{ARTIFACT}/provenance`.
 
 **References:** 
 
