@@ -1,13 +1,13 @@
 ---
 type: Repository
 besides: Yes
-format: [Planned]
+format: [Any]
 visibility: [Private]
 ---
 
 # Github Artifact Metadata API/Linked Artifacts
 
-GitHub provides an API to link artifact metadata, which can then be found for each repository in `https://github.com/orgs/{ORG}/artifacts`.
+GitHub provides an API to link artifact metadata, which can then be found for each repository in `https://github.com/orgs/{ORG}/artifacts`. Note that you can only see the attestation artifacts if you are a member of the organization.
 
 **References:** 
 

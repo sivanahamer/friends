@@ -1,13 +1,13 @@
 ---
 type: Package Registry
-besides: Yes
-format: [NA]
+besides: True
+format: [Planned]
 visibility: [Public]
 ---
 
 # Maven Central
 
-Attestations as Sigstore Bundles are stored in [Maven Central](https://central.sonatype.com/) as files ending with `sigstore.json`
+[Maven Central](https://central.sonatype.com/) plans to to provide in-toto attestations as the ecoystem matures.
 
 **References:** 
 
